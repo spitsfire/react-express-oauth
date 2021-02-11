@@ -1,0 +1,17 @@
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.block .user {
+    width: 200px;
+    height: 40px;
+    border: 2px solid #2d2d2d;
+    background-color:bisque;
+    padding: 5%;
+    margin: 1%;
+}
+
+/* .user {
+    border: 1px solid #2d2d2d;
+} */

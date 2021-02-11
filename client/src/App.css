@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background-color:white;
+  height: 100vh;
+  margin: 0px;
+}
+
+section {
+  width: 200px;
+  height: 100vh;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div {
+  color: #fff;
+  background:#fff;
+  padding: 12px;
+  display: inline-block;
+}
